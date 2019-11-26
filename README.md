@@ -1,4 +1,6 @@
 # bunq PHP SDK
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fneo355%2Fsdk_php.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fneo355%2Fsdk_php?ref=badge_shield)
+
 
 ## Introduction
 Hi developers!
@@ -226,3 +228,7 @@ located in [test](/tests).
 ## Exceptions
 The SDK can throw multiple exceptions. For an overview of these exceptions please
 take a look at [EXCEPTIONS.md](./src/Exception/EXCEPTION.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fneo355%2Fsdk_php.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fneo355%2Fsdk_php?ref=badge_large)
